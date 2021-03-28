@@ -105,3 +105,8 @@ All dataset-related code is under the `dataset` subdirectory. The current versio
 
 ## Hardware
 **Laboratory Tested Hardware:** Gunrock with GTX 970, Tesla K40s, GTX 1080, Tesla P100, RTX 2070, Tesla V100 and other NVIDIA cards. We have not encountered any trouble in-house with devices with CUDA capability >= 3.0.
+
+
+## Building Errors?
+
+See this page before making an issue: [Building FAQ](/devs/building_faq.md)
